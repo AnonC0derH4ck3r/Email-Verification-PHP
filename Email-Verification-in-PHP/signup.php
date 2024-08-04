@@ -24,8 +24,8 @@
 		$temp_code = $_SESSION[ 'code' ];
 
 		if($verifiedEmail === 0) {
-			$from_name = "9309 Huzefa Dayanji";
-			$from = "217dayanjihuzefa@gmail.com";
+			$from_name = "Your Gmail Name";
+			$from = "yourgmailaccount@gmail.com";
 			$to = $email;
 			$subject = "Verify your email address.";
 
